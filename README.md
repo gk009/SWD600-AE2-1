@@ -25,7 +25,7 @@
 *Description goes here*
 
 <div>
-    My code goes here
+    Code goes here to display actual element
 </div>
 <br />
   
@@ -42,7 +42,7 @@
 *Description goes here*
 
 <div>
-    My code goes here
+    Code goes here to display actual element
 </div>
 <br />
 
@@ -61,7 +61,7 @@
 *Description goes here*
 
 <div>
-    My code goes here
+    Code goes here to display actual element
 </div>
 <br />
 
@@ -74,7 +74,7 @@
 *Description goes here*
 
 <div>
-    My code goes here
+    Code goes here to display actual element
 </div>
 <br />
 
@@ -87,7 +87,7 @@
 *Description goes here*
 
 <div>
-    My code goes here
+    Code goes here to display actual element
 </div>
 <br />
 
@@ -100,7 +100,7 @@
 *Description goes here*
 
 <div>
-    My code goes here
+    Code goes here to display actual element
 </div>
 <br />
 
@@ -113,7 +113,7 @@
 *Description goes here*
 
 <div>
-    My code goes here
+    Code goes here to display actual element
 </div>
 <br />
 
@@ -126,7 +126,7 @@
 *Description goes here*
 
 <div>
-    My code goes here
+    Code goes here to display actual element
 </div>
 <br />
 
@@ -141,7 +141,7 @@
 *Description goes here*
 
 <div>
-    My code goes here
+    Code goes here to display actual element
 </div>
 <br />
 
@@ -156,7 +156,7 @@
 *Description goes here*
 
 <div>
-    My code goes here
+    Code goes here to display actual element
 </div>
 <br />
 
@@ -171,7 +171,7 @@
 *Description goes here*
 
 <div>
-    My code goes here
+    Code goes here to display actual element
 </div>
 <br />
 
