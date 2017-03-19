@@ -6,8 +6,8 @@
 
 ## Table of Contents
 
-  1. [Navigation bar](#Navigation bar)
-  1. [Header element](#Header element)
+  1. [Navigation bar](#navigation-bar)
+  1. [Header element](#header-element)
   1. [Buttons](#objects)
      * [Button one](#button1)
      * [Button two](#button2)
