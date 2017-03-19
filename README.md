@@ -22,6 +22,8 @@
 
 ## Navigation bar
 
+*Description goes here*
+
 <div>
     My code goes here
 </div>
@@ -37,6 +39,8 @@
 
 ## Header Element
 
+*Description goes here*
+
 <div>
     My code goes here
 </div>
@@ -50,9 +54,11 @@
 
 ## Buttons
 
-*Here are some buttons*
+*Description goes here*
 
 ### Button One
+
+*Description goes here*
 
 <div>
     My code goes here
@@ -65,6 +71,8 @@
 
 ### Button Two
 
+*Description goes here*
+
 <div>
     My code goes here
 </div>
@@ -75,6 +83,8 @@
     </div>
 
 ### Button Three
+
+*Description goes here*
 
 <div>
     My code goes here
@@ -87,6 +97,8 @@
 
 ### Button Four
 
+*Description goes here*
+
 <div>
     My code goes here
 </div>
@@ -98,6 +110,8 @@
   
 ### Button Five
 
+*Description goes here*
+
 <div>
     My code goes here
 </div>
@@ -108,6 +122,8 @@
     </div>
 
 ### Button Six
+
+*Description goes here*
 
 <div>
     My code goes here
@@ -122,6 +138,8 @@
 
 ## Jumbotron
 
+*Description goes here*
+
 <div>
     My code goes here
 </div>
@@ -135,6 +153,8 @@
 
 ## Footer
 
+*Description goes here*
+
 <div>
     My code goes here
 </div>
@@ -147,6 +167,8 @@
 **[⬆ back to top](#table-of-contents)**
 
 ## Other Component
+
+*Description goes here*
 
 <div>
     My code goes here
