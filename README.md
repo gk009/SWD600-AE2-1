@@ -9,6 +9,12 @@
   1. [Navigation bar](#types)
   1. [Header element](#references)
   1. [Buttons](#objects)
+  ..* Button one(#button1)
+  ..* Button two(#button2)
+  ..* Button three(#button3)
+  ..* Button four(#button4)
+  ..* Button five(#button5)
+  ..* Button six(#button6)
   1. [Jumbotron](#arrays)
   1. [Footer](#destructuring)
 
