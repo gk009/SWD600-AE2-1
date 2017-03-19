@@ -8,16 +8,16 @@
 
   1. [Navigation bar](#navigation-bar)
   1. [Header element](#header-element)
-  1. [Buttons](#objects)
-     * [Button one](#button1)
-     * [Button two](#button2)
-     * [Button three](#button3)
-     * [Button four](#button4)
-     * [Button five](#button5)
-     * [Button six](#button6)
-  1. [Jumbotron](#arrays)
-  1. [Footer](#destructuring)
-  1. [Other component](#destructuring)
+  1. [Buttons](#buttons)
+     * [Button one](#button-one)
+     * [Button two](#button-two)
+     * [Button three](#button-three)
+     * [Button four](#button-four)
+     * [Button five](#button-five)
+     * [Button six](#button-six)
+  1. [Jumbotron](#jumbotron)
+  1. [Footer](#footer)
+  1. [Other component](#other-component)
 
 
 ## Navigation bar
