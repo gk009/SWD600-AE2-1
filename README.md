@@ -62,8 +62,6 @@
     <div>
         My code goes here
     </div>
-  
-**[⬆ back to top](#table-of-contents)**
 
 ### Button Two
 
@@ -75,8 +73,6 @@
     <div>
         My code goes here
     </div>
-  
-**[⬆ back to top](#table-of-contents)**
 
 ### Button Three
 
@@ -88,8 +84,6 @@
     <div>
         My code goes here
     </div>
-  
-**[⬆ back to top](#table-of-contents)**
 
 ### Button Four
 
@@ -102,8 +96,6 @@
         My code goes here
     </div>
   
-**[⬆ back to top](#table-of-contents)**
-
 ### Button Five
 
 <div>
@@ -114,8 +106,6 @@
     <div>
         My code goes here
     </div>
-  
-**[⬆ back to top](#table-of-contents)**
 
 ### Button Six
 
