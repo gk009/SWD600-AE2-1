@@ -27,16 +27,14 @@
 <div>
     Code goes here to display actual element
 </div>
+<button class="copy-button" data-clipboard-text="Copy Me!" title="Click to copy me.">
+        Copy to Clipboard
+</button>
 <br />
-  
 
     <div>
         My code goes here
     </div>
-    <button class="copy-button" data-clipboard-text="Copy Me!" title="Click to copy me.">
-        Copy to Clipboard
-    </button>
-    
 
 **[⬆ back to top](#table-of-contents)**
 
